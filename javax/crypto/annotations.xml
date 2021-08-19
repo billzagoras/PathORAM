@@ -1,0 +1,5 @@
+<root>
+    <item name='javax.crypto.KeyGenerator'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
